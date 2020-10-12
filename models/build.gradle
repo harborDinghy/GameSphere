@@ -1,0 +1,6 @@
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+dependencies {
+    implementation 'org.projectlombok:lombok:1.18.14'
+}
